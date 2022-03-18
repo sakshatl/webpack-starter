@@ -1,0 +1,17 @@
+$titleColor: orange;
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #3c3c3c;
+}
+
+.title {
+  font-size: 48px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: $titleColor;
+}
